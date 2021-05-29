@@ -1,4 +1,4 @@
-# vue2_1
+# Vue 2 core concepts
 
 ## Project setup
 
@@ -24,7 +24,3 @@ module.exports = {
   runtimeCompiler: true,
 };
 ```
-
-git branch -M main
-git remote add origin https://shahrozdomore@github.com/shahrozdomore/Vue2-core-concepts.git
-git push -u origin main
